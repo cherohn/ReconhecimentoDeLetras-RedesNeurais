@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redes Neurais", "Redes Neurais\Redes Neurais.csproj", "{D97562AD-D08A-40CA-8F1A-1F165058B14A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D97562AD-D08A-40CA-8F1A-1F165058B14A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D97562AD-D08A-40CA-8F1A-1F165058B14A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D97562AD-D08A-40CA-8F1A-1F165058B14A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D97562AD-D08A-40CA-8F1A-1F165058B14A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {106BB7B3-2344-49A1-844E-7E8CFC77CA1E}
+	EndGlobalSection
+EndGlobal
